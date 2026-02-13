@@ -3,7 +3,9 @@
 <div align="center">
   <h3>🌟 A beautiful, modern, and feature-rich task manager that makes productivity fun! 🌟</h3>
   
-  ![Demo](https://via.placeholder.com/800x450/667eea/ffffff?text=To-Do+List+Demo)
+  ![To-Do List Demo](https://github.com/umerk7918/To-Do-List/assets/your-username-here/screenshots/todo-demo.png)
+
+*Screenshot of the To-Do List application*
   
   [![GitHub license](https://img.shields.io/github/license/yourusername/todo-list-app?style=for-the-badge)](https://github.com/yourusername/todo-list-app/blob/main/LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/yourusername/todo-list-app/pulls)
