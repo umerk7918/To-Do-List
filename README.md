@@ -3,7 +3,8 @@
 <div align="center">
   <h3>🌟 A beautiful, modern, and feature-rich task manager that makes productivity fun! 🌟</h3>
   
-  ![To-Do List Demo](https://github.com/umerk7918/To-Do-List/assets/your-username-here/screenshots/todo-demo.png)
+  ![To-Do List Demo](./Demo.png)
+
 
 *Screenshot of the To-Do List application*
   
